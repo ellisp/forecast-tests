@@ -1,5 +1,5 @@
 # compares X13-SEATS, auto.arima, and ets against the M3 competition data
-# Peter Ellis, originally at http://ellisp.github.io/blog/2015/12/21/m3-and-x13/ 
+# Peter Ellis, originally at http://ellisp.github.io/blog/2015/12/21/m3-and-x13 
 
 library(Mcomp) # competition data
 library(dplyr)
